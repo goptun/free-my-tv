@@ -179,5 +179,8 @@
  "{n} h ago": "{n} ч назад",
  "{n} min ago": "{n} мин назад",
  "{n} ms": "{n} мс",
- "← → to move · OK to drop · Back to cancel": "← → — переместить · OK — оставить · Назад — отмена"
+ "← → to move · OK to drop · Back to cancel": "← → — переместить · OK — оставить · Назад — отмена",
+ "Home layout": "Макет главного экрана",
+ "layout|For You on top": "«Для вас» сверху",
+ "layout|Widgets on top": "Виджеты сверху"
 }

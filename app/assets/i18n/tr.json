@@ -179,5 +179,8 @@
  "{n} h ago": "{n} sa önce",
  "{n} min ago": "{n} dk önce",
  "{n} ms": "{n} ms",
- "← → to move · OK to drop · Back to cancel": "← → taşı · OK bırak · Geri iptal et"
+ "← → to move · OK to drop · Back to cancel": "← → taşı · OK bırak · Geri iptal et",
+ "Home layout": "Ana ekran düzeni",
+ "layout|For You on top": "Sana Özel üstte",
+ "layout|Widgets on top": "Widget'lar üstte"
 }

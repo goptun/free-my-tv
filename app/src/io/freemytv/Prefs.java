@@ -96,6 +96,10 @@ final class Prefs {
 
     static void setTheme(String v) { put("theme", v); }
 
+    /** Home layout: false = the picks on top (Explore, Movies, Shows); true = inputs, shortcuts and widgets on top, picks below the shelf. */
+    static boolean widgetsOnTop() { return sp().getBoolean("widgetsOnTop", false); }
+    static void setWidgetsOnTop(boolean on) { put("widgetsOnTop", on); }
+
     // MARK: - City
 
     static String city() { return sp().getString("city", Config.CITY).trim(); }

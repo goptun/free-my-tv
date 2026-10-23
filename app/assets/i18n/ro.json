@@ -179,5 +179,8 @@
  "{n} h ago": "acum {n} h",
  "{n} min ago": "acum {n} min",
  "{n} ms": "{n} ms",
- "← → to move · OK to drop · Back to cancel": "← → mută · OK plasează · Înapoi anulează"
+ "← → to move · OK to drop · Back to cancel": "← → mută · OK plasează · Înapoi anulează",
+ "Home layout": "Aspectul ecranului principal",
+ "layout|For You on top": "Pentru tine sus",
+ "layout|Widgets on top": "Widgeturi sus"
 }

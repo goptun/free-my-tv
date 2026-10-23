@@ -179,5 +179,8 @@
  "{n} h ago": "{n} godz. temu",
  "{n} min ago": "{n} min temu",
  "{n} ms": "{n} ms",
- "← → to move · OK to drop · Back to cancel": "← → przenieś · OK upuść · Wstecz anuluj"
+ "← → to move · OK to drop · Back to cancel": "← → przenieś · OK upuść · Wstecz anuluj",
+ "Home layout": "Układ ekranu głównego",
+ "layout|For You on top": "Dla Ciebie na górze",
+ "layout|Widgets on top": "Widżety na górze"
 }

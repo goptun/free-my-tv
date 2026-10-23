@@ -179,5 +179,8 @@
  "{n} h ago": "for {n} t siden",
  "{n} min ago": "for {n} min siden",
  "{n} ms": "{n} ms",
- "← → to move · OK to drop · Back to cancel": "← → flyt · OK slip · Tilbage annuller"
+ "← → to move · OK to drop · Back to cancel": "← → flyt · OK slip · Tilbage annuller",
+ "Home layout": "Startskærmens layout",
+ "layout|For You on top": "Til dig øverst",
+ "layout|Widgets on top": "Widgets øverst"
 }

@@ -179,5 +179,8 @@
  "{n} h ago": "{n} h fa",
  "{n} min ago": "{n} min fa",
  "{n} ms": "{n} ms",
- "← → to move · OK to drop · Back to cancel": "← → sposta · OK rilascia · Indietro annulla"
+ "← → to move · OK to drop · Back to cancel": "← → sposta · OK rilascia · Indietro annulla",
+ "Home layout": "Layout della schermata Home",
+ "layout|For You on top": "Per te in alto",
+ "layout|Widgets on top": "Widget in alto"
 }

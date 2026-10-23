@@ -179,5 +179,8 @@
  "{n} h ago": "há {n} h",
  "{n} min ago": "há {n} min",
  "{n} ms": "{n} ms",
- "← → to move · OK to drop · Back to cancel": "← → para mover · OK para soltar · Voltar para cancelar"
+ "← → to move · OK to drop · Back to cancel": "← → para mover · OK para soltar · Voltar para cancelar",
+ "Home layout": "Layout da tela inicial",
+ "layout|For You on top": "Para você em cima",
+ "layout|Widgets on top": "Widgets em cima"
 }

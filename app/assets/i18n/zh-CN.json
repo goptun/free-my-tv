@@ -179,5 +179,8 @@
  "{n} h ago": "{n} 小时前",
  "{n} min ago": "{n} 分钟前",
  "{n} ms": "{n} 毫秒",
- "← → to move · OK to drop · Back to cancel": "← → 移动 · OK 放置 · 返回 取消"
+ "← → to move · OK to drop · Back to cancel": "← → 移动 · OK 放置 · 返回 取消",
+ "Home layout": "主屏幕布局",
+ "layout|For You on top": "为你推荐在上",
+ "layout|Widgets on top": "小组件在上"
 }

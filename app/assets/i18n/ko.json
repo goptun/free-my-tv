@@ -179,5 +179,8 @@
  "{n} h ago": "{n}시간 전",
  "{n} min ago": "{n}분 전",
  "{n} ms": "{n}ms",
- "← → to move · OK to drop · Back to cancel": "← → 이동 · OK 배치 · 뒤로 취소"
+ "← → to move · OK to drop · Back to cancel": "← → 이동 · OK 배치 · 뒤로 취소",
+ "Home layout": "홈 화면 레이아웃",
+ "layout|For You on top": "추천을 위에",
+ "layout|Widgets on top": "위젯을 위에"
 }

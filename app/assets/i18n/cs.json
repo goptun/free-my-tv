@@ -179,5 +179,8 @@
  "{n} h ago": "před {n} h",
  "{n} min ago": "před {n} min",
  "{n} ms": "{n} ms",
- "← → to move · OK to drop · Back to cancel": "← → přesunout · OK umístit · Zpět zrušit"
+ "← → to move · OK to drop · Back to cancel": "← → přesunout · OK umístit · Zpět zrušit",
+ "Home layout": "Rozvržení domovské obrazovky",
+ "layout|For You on top": "Nahoře Pro vás",
+ "layout|Widgets on top": "Nahoře widgety"
 }

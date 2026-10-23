@@ -179,5 +179,8 @@
  "{n} h ago": "πριν από {n} ώ.",
  "{n} min ago": "πριν από {n} λ.",
  "{n} ms": "{n} ms",
- "← → to move · OK to drop · Back to cancel": "← → μετακίνηση · OK τοποθέτηση · Πίσω ακύρωση"
+ "← → to move · OK to drop · Back to cancel": "← → μετακίνηση · OK τοποθέτηση · Πίσω ακύρωση",
+ "Home layout": "Διάταξη αρχικής οθόνης",
+ "layout|For You on top": "Πάνω το Για εσάς",
+ "layout|Widgets on top": "Πάνω τα widget"
 }
