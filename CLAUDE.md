@@ -245,3 +245,17 @@ HDMI (Chromecast with Google TV, Google TV Streamer, onn 4K, NVIDIA Shield). Set
   *Original* can bring it back.
 - Don't change the TV's picture, sound, network or account settings.
 - Keep the way back working: the *Original* mode and the watchdog.
+
+## Agent skills
+
+### Issue tracker
+
+Issues and specs live in the fork's GitHub Issues (goptun/free-my-tv), through `gh`. See `agents/issue-tracker.md`.
+
+### Triage labels
+
+The five default roles, each label named after its role. See `agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context: `GLOSSARY.md` at the root and ADRs in `agents/adr/` (`docs/` is the website). See `agents/domain.md`.
