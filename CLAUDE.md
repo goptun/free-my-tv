@@ -259,3 +259,7 @@ The five default roles, each label named after its role. See `agents/triage-labe
 ### Domain docs
 
 Single-context: `GLOSSARY.md` at the root and ADRs in `agents/adr/` (`docs/` is the website). See `agents/domain.md`.
+
+### Handoffs
+
+Session handoffs go in `agents/handoffs/` (not `docs/`, which is the website).
